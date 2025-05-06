@@ -25,7 +25,7 @@ class MoviesTableViewController:UITableViewController,AddDelegate{
                 
     }
     @objc func addMovie() {
-        if let addMovieVC = storyboard?.instantiateViewController(withIdentifier: "add") as? AddViewController {
+        if let addMovieVC = storyboard?.instantiateViewController(withIdentifier: "add") as? TableViewController {
                 addMovieVC.table = self
                 navigationController?.pushViewController(addMovieVC, animated: true)
             }
