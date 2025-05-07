@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "date"; ObjectID = "1Gl-kC-A32"; */
+"1Gl-kC-A32.text" = "التاريخ";
+
+/* Class = "UILabel"; text = "genra"; ObjectID = "5QT-Ti-w2B"; */
+"5QT-Ti-w2B.text" = "النوع";
+
+/* Class = "UILabel"; text = "genra"; ObjectID = "5rJ-tJ-B1L"; */
+"5rJ-tJ-B1L.text" = "النوع";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "70B-O6-0mP"; */
+"70B-O6-0mP.text" = "التاريخ";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "MKt-fL-G2W"; */
+"MKt-fL-G2W.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "genra"; ObjectID = "NeK-5F-rvf"; */
+"NeK-5F-rvf.text" = "النوع";
+
+/* Class = "UILabel"; text = "rating"; ObjectID = "NiY-J2-5NN"; */
+"NiY-J2-5NN.text" = "التقييم";
+
+/* Class = "UILabel"; text = "tiltle"; ObjectID = "RwW-PL-MFG"; */
+"RwW-PL-MFG.text" = "العنوان";
+
+/* Class = "UILabel"; text = "image"; ObjectID = "TFj-R3-GWd"; */
+"TFj-R3-GWd.text" = "الصورة";
+
+/* Class = "UILabel"; text = "tiltle"; ObjectID = "U8M-3s-loL"; */
+"U8M-3s-loL.text" = "العنوان";
+
+/* Class = "UIButton"; normalTitle = "Add img"; ObjectID = "aFP-LV-Lqh"; */
+"aFP-LV-Lqh.normalTitle" = "اضف صورة";
+
+/* Class = "UILabel"; text = "rating"; ObjectID = "jKe-Vz-8QO"; */
+"jKe-Vz-8QO.text" = "التقييم";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ktZ-Xt-nPH"; */
+"ktZ-Xt-nPH.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kvK-ya-kcW"; */
+"kvK-ya-kcW.text" = "Label";
+
+/* Class = "UILabel"; text = "image"; ObjectID = "nU5-rL-EAR"; */
+"nU5-rL-EAR.text" = "صورة";
+
+/* Class = "UILabel"; text = "tiltle"; ObjectID = "qSN-j5-3Cg"; */
+"qSN-j5-3Cg.text" = "العنوان";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "rv3-zI-aJn"; */
+"rv3-zI-aJn.text" = "التاريخ";
+
+/* Class = "UIButton"; normalTitle = "Add img"; ObjectID = "uHy-pb-168"; */
+"uHy-pb-168.normalTitle" = "اضف صوره";
+
+/* Class = "UILabel"; text = "rating"; ObjectID = "xPU-wD-xdP"; */
+"xPU-wD-xdP.text" = "التقييم";
